@@ -1,1 +1,15 @@
 *.log
+.index.html.swo
+.index.html.swp
+.index_BASE_2849.html.swp
+.index_LOCAL_2849.html.swp
+.index_REMOTE_2849.html.swp
+index_BACKUP_2849.html
+index_BACKUP_3166.html
+index_BASE_2849.html
+index_BASE_3166.html
+index_LOCAL_2849.html
+index_LOCAL_3166.html
+index_REMOTE_2849.html
+index_REMOTE_3166.html
+
