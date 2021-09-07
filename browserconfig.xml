@@ -5,7 +5,7 @@
         <tile>
             <square70x70logo src="tile.png"/>
 <<<<<<< HEAD
-            <square150x150logo src="tile3232FromMaster.png"/>
+            <square150x150logo src="tile3232Updated from myfeature.png"/>
 =======
             <square150x150logo src="tile0editted.png"/>
 >>>>>>> bc4459a (Adding trouble for xml file)
