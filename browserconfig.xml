@@ -4,7 +4,11 @@
     <msapplication>
         <tile>
             <square70x70logo src="tile.png"/>
+<<<<<<< HEAD
             <square150x150logo src="tile3232FromMaster.png"/>
+=======
+            <square150x150logo src="tile0editted.png"/>
+>>>>>>> bc4459a (Adding trouble for xml file)
             <wide310x150logo src="tile-wide.png"/>
             <square310x310logo src="tile.png"/>
 			<square310x310logo1 src="tile1.png"/>
